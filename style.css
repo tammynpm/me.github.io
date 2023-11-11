@@ -1,0 +1,36 @@
+*{
+    background-color: beige;
+
+}
+.pwebsite{
+    display: flex;
+    padding: 25px;
+    align-items: center;
+
+}
+
+.pwebsite-img{
+    height: fit-content;
+    width: fit-content;
+
+}
+
+.pwebsite-img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    border-color: aquamarine;
+
+}
+
+.pwebsite-details{
+    align-self: center;
+}
+
+.pwebsite-details{
+    padding: 15px;
+    background-color: brown;
+    color: blanchedalmond;
+    
+}
